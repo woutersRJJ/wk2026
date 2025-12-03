@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.e6c13ad2.css",
-    "main.js": "./static/js/main.6a10a027.js",
+    "main.css": "./static/css/main.44b1e26f.css",
+    "main.js": "./static/js/main.7478c945.js",
     "static/js/453.9c882bd5.chunk.js": "./static/js/453.9c882bd5.chunk.js",
+    "static/media/seattle.avif": "./static/media/seattle.c1972c43d6fe5599eb93.avif",
+    "static/media/mexicoCity.avif": "./static/media/mexicoCity.24d02c7ee8c6b3cd78cc.avif",
     "static/media/logo.png": "./static/media/logo.15f8c74a9a97219ac769.png",
+    "static/media/LA.avif": "./static/media/LA.8b7e1dd80c6141752136.avif",
+    "static/media/NYC.avif": "./static/media/NYC.787f544b9b8d88e10303.avif",
+    "static/media/miami.avif": "./static/media/miami.d59c49483a0e3ad64dbd.avif",
+    "static/media/boston.avif": "./static/media/boston.6dd10242230754d93f5b.avif",
+    "static/media/atlanta.avif": "./static/media/atlanta.ee2ac87f6dfc7f94f343.avif",
+    "static/media/philadelphia.avif": "./static/media/philadelphia.b84879e3b4e9fa162a5e.avif",
+    "static/media/monterey.avif": "./static/media/monterey.3b8ecbf2864f07699668.avif",
+    "static/media/guadalajara.avif": "./static/media/guadalajara.a908245700983d5f3b78.avif",
+    "static/media/vancouver.avif": "./static/media/vancouver.cadc384f2b9fca23fe92.avif",
+    "static/media/sanFran.avif": "./static/media/sanFran.78b3b443f1ca197fcdd1.avif",
+    "static/media/toronto.avif": "./static/media/toronto.ea0adcc344e29a474c4c.avif",
+    "static/media/houston.avif": "./static/media/houston.633130be0557e0123af3.avif",
+    "static/media/kansas.avif": "./static/media/kansas.4b9736dc04795152ea5a.avif",
+    "static/media/dallas.avif": "./static/media/dallas.0e3b6321eff196d37500.avif",
     "index.html": "./index.html",
-    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
-    "main.6a10a027.js.map": "./static/js/main.6a10a027.js.map",
+    "main.44b1e26f.css.map": "./static/css/main.44b1e26f.css.map",
+    "main.7478c945.js.map": "./static/js/main.7478c945.js.map",
     "453.9c882bd5.chunk.js.map": "./static/js/453.9c882bd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6a10a027.js"
+    "static/css/main.44b1e26f.css",
+    "static/js/main.7478c945.js"
   ]
 }
