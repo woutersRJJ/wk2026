@@ -1,10 +1,11 @@
 import './services/firestore'
 import './App.css';
+import {Banner} from "./components/Banner";
 
 function App() {
   return (
     <div className="App">
-      FIFA World cup 2026
+      <Banner/>
     </div>
   );
 }
